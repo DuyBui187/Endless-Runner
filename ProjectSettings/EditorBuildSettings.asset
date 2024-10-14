@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TouchMenu.unity
+    guid: bc50314dd9cc0f24889b1da8122787fa
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d0846071e82f08d4f8037641f9e34f61
+  - enabled: 1
+    path: Assets/Scenes/Custom Menu.unity
+    guid: ad2bf1310ceebf245a1bc9a06a9ab5f7
+  - enabled: 1
+    path: Assets/Scenes/Select Level.unity
+    guid: edea2636de15b0943a6642a6d201889d
+  - enabled: 1
+    path: Assets/Scenes/Setting Menu.unity
+    guid: 2a17ca1ded27adc44908d1ca6e47a256
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: bdf175671cabd9b428105e33fd05a19f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: 94d9520bea12c8e41a7a5d45eeb45b59
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: edcfb46a6d38a3145b68e7239ea1de92
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level5.unity
+    guid: 70a485547cf3b3e4ba27dd85abdd37d1
+  m_configObjects: {}
